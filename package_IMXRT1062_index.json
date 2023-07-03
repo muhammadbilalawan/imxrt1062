@@ -27,7 +27,6 @@
 					},
 					{
 						"packager": "5G HUB",
-						"version": "7-2017q4",
 						"name": "arm-none-eabi-gcc"
 					}
 				]
