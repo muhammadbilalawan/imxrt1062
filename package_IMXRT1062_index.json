@@ -26,7 +26,6 @@
 						"name": "bossac"
 					},
 					{
-						"packager": "5G HUB",
 						"name": "arm-none-eabi-gcc"
 					}
 				]
