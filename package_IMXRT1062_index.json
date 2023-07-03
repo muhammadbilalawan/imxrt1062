@@ -24,6 +24,11 @@
 						"packager": "5G HUB",
 						"version": "1.9.1-seeeduino",
 						"name": "bossac"
+					},
+					{
+						"packager": "5G HUB",
+						"version": "7-2017q4",
+						"name": "arm-none-eabi-gcc"
 					}
 				]
 			}
