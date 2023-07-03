@@ -18,7 +18,14 @@
 				"size": "30872665",
 				"boards": [{
 					"name": "IMXRT1062"
-				}]
+				}],
+				"toolsDependencies": [
+					{
+						"packager": "5G HUB",
+						"version": "1.9.1-seeeduino",
+						"name": "bossac"
+					}
+				]
 			}
 	      
       ],
