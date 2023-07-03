@@ -2,8 +2,8 @@
   "packages": [
     {
       "maintainer": "5G HUB",
-      "websiteURL": "https://github.com/esp8266/Arduino",
-      "email": "ivan@esp8266.com",
+      "websiteURL": "null",
+      "email": "null",
       "name": "IMXRT1062",
       "platforms": [
 				
@@ -18,18 +18,7 @@
 				"size": "30872665",
 				"boards": [{
 					"name": "IMXRT1062"
-				}],
-				"toolsDependencies": [{
-						"packager": "5G HUB",
-						"version": "7-2017q4",
-						"name": "arm-none-eabi-gcc"
-					},
-					{
-						"packager": "5G HUB",
-						"version": "1.9.1-seeeduino",
-						"name": "bossac"
-					}
-				]
+				}]
 			}
 	      
       ],
