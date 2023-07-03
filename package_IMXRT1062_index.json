@@ -12,13 +12,20 @@
 				"architecture": "imxrt",
 				"category": "Contributed",
 				"version": "1.0.0",
-				"url": "https://github.com/muhammadbilalawan/rt1062/blob/main/ArduinoCore-imxrt.zip?raw=true",				
+				"url": "https://github.com/slavaten/rt1062/blob/master/ArduinoCore-imxrt.zip?raw=true",				
 				"archiveFileName": "ArduinoCore-imxrt.zip",
-				"checksum": "SHA-256:6e28ee3f687b33097c3a9e3de6c91d0b4f4c5fb8dbccc828fc7bc726aed29fbf",
-				"size": "26833293",
+				"checksum": "SHA-256:39ED64FB9EB500AD91624E07C4CBCDCD648D554ECD59FB95B2851EC4345F932C",
+				"size": "30872665",
 				"boards": [{
 					"name": "IMXRT1062"
-				}]
+				}],
+				"toolsDependencies": [
+					{
+						"packager": "5G HUB",
+						"version": "1.9.1-seeeduino",
+						"name": "bossac"
+					}
+				]
 			}
 	      
       ],
